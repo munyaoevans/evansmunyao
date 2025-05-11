@@ -18,6 +18,24 @@ Welcome to my GitHub profile! I'm passionate about creating engaging learning ex
 ![Teams](https://img.shields.io/badge/Teams-6264A7?logo=microsoftteams&logoColor=fff&style=flat)
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?logo=google&logoColor=fff&style=flat)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat)
+![Learn.ink](https://img.shields.io/badge/Learn.ink-000000?style=flat&logo=read-the-docs&logoColor=white)
+![TalentLMS](https://img.shields.io/badge/TalentLMS-2A73E8?style=flat&logo=googleclassroom&logoColor=white)
+![Nolan HRMS](https://img.shields.io/badge/Nolan_HRMS-444444?style=flat)
+![SeamlessHR](https://img.shields.io/badge/SeamlessHR-007FFF?style=flat)
+![Freshteam](https://img.shields.io/badge/Freshteam-00C389?style=flat&logo=freshworks&logoColor=white)
+
+---
+
+## 🎓 Education
+
+- Bachelor of Science in Statistics and Programming – Kenyatta University
+
+---
+
+## 📊 Featured Projects
+
+**📈 Learn.ink & Sales Agent App Performance Dashboard (Power BI)**  
+Tracks YTD performance in 2025 across various regions and months (January–March). Visualizes regional breakdowns and highlights total percentage performance to support informed decision-making and continuous learning interventions.
 
 ---
 
@@ -29,9 +47,9 @@ Welcome to my GitHub profile! I'm passionate about creating engaging learning ex
 
 ## 🌱 What I'm Working On
 
-- 📚 Developing digital learning modules
-- 🧠 Enhancing instructional design skills
-- 🚀 Building data-driven L&D dashboards
+- 📚 Developing digital learning modules  
+- 🧠 Enhancing instructional design skills  
+- 🚀 Building data-driven L&D dashboards  
 
 ---
 
